@@ -1,0 +1,155 @@
+function toLocaleTimeString() { [native code] } 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AS Team id
+       dateTime_start AS Start Meeting
+       dateTime_end AS End ...' at line 2---------------------------------------
+function toLocaleTimeString() { [native code] } 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AS Team id
+       dateTime_start AS Start_Meeting
+       dateTime_end AS End_...' at line 2---------------------------------------
+function toLocaleTimeString() { [native code] } 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AS Team_id
+       dateTime_start AS Start_Meeting
+       dateTime_end AS End_...' at line 2---------------------------------------
+function toLocaleTimeString() { [native code] } 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AS "Team id",
+       dateTime_start AS "Start Meeting",
+       dateTime_end A...' at line 2---------------------------------------
+function toLocaleTimeString() { [native code] } 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AS Team id,
+       dateTime_start AS "Start Meeting",
+       dateTime_end AS ...' at line 2---------------------------------------
+function toLocaleTimeString() { [native code] } 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AS 'Team id',
+       dateTime_start AS 'Start Meeting',
+       dateTime_end A...' at line 2---------------------------------------
+function toLocaleTimeString() { [native code] } 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AS 'Team id',
+       dateTime_start AS 'Start Meeting',
+       dateTime_end A...' at line 2---------------------------------------
+function toLocaleTimeString() { [native code] } 	 ER_NO_SUCH_TABLE: Table 'meetings_jb_test.team_meatings' doesn't exist---------------------------------------
+function toLocaleTimeString() { [native code] } 	 Route /favicon.ico not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 id 21 not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 Route /api/meetings-by-id-spesific-team/f not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 id 100 not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?,?)' at line 5---------------------------------------
+function toLocaleTimeString() { [native code] } 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?,?)' at line 5---------------------------------------
+function toLocaleTimeString() { [native code] } 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?,?)' at line 5---------------------------------------
+function toLocaleTimeString() { [native code] } 	 Route /api/meetings/ not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 Route /api/meetings-by-id-spesific-team/NaN not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 Route /list not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 Route /list not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 id 0 not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 ---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "id" must be a number---------------------------------------
+function toLocaleTimeString() { [native code] } 	 ER_BAD_NULL_ERROR: Column 'team_id' cannot be null---------------------------------------
+function toLocaleTimeString() { [native code] } 	 ER_BAD_NULL_ERROR: Column 'team_id' cannot be null---------------------------------------
+function toLocaleTimeString() { [native code] } 	 ER_BAD_NULL_ERROR: Column 'team_id' cannot be null---------------------------------------
+function toLocaleTimeString() { [native code] } 	 ER_BAD_NULL_ERROR: Column 'team_id' cannot be null---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "team_id" must be a number---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "dateTime_end" must be greater than "ref:dateTime_start"---------------------------------------
+function toLocaleTimeString() { [native code] } 	 id 12 not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 id 10 not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "team_id" must be a number---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "dateTime_end" must be greater than "ref:dateTime_start"---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "dateTime_end" must be greater than "ref:dateTime_start"---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "dateTime_end" must be greater than "ref:dateTime_start"---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "team_id" must be a number---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "team_id" must be a number---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "team_id" must be a number---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "team_id" must be a number---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "team_id" must be a number---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "team_id" must be a number---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "team_id" must be a number---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "team_id" must be a number---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "team_id" must be a number---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "team_id" must be a number---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "team_id" must be a number---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "team_id" must be a number---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "team_id" must be a number---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "team_id" must be a number---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "team_id" must be a number---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "team_id" must be a number---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "team_id" must be a number---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "team_id" must be a number---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "team_id" must be a number---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "team_id" must be a number---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "team_id" must be a number---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "team_id" must be a number---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "team_id" must be a number---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "team_id" must be a number---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "team_id" must be a number---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "team_id" must be a number---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "team_id" must be a number---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "team_id" must be a number---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "team_id" must be a number---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "team_id" must be a number---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "team_id" must be a number---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "team_id" must be a number---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "team_id" must be a number---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "team_id" must be a number---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "team_id" must be a number---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "team_id" must be a number---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "dateTime_end" must be greater than "ref:dateTime_start"---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "team_id" must be a number---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "dateTime_start" must be greater than "2024-03-26T18:46:15.797Z"---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "dateTime_start" must be greater than "2024-03-26T18:46:15.797Z"---------------------------------------
+function toLocaleTimeString() { [native code] } 	 Start date must be greater than the current date---------------------------------------
+function toLocaleTimeString() { [native code] } 	 Start date must be greater than the current date---------------------------------------
+function toLocaleTimeString() { [native code] } 	 Start date must be greater than the current date---------------------------------------
+function toLocaleTimeString() { [native code] } 	 Start date/time must be greater than the current date/time---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "dateTime_end" must be greater than "ref:dateTime_start"---------------------------------------
+function toLocaleTimeString() { [native code] } 	 Start date/time must be greater than the current date/time---------------------------------------
+function toLocaleTimeString() { [native code] } 	 Route /api/meetings-by-id-spesific-team/Select... not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "description" length must be at least 2 characters long---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "meeting_room" length must be at least 2 characters long---------------------------------------
+function toLocaleTimeString() { [native code] } 	 Route /api/meetings-by-id-spesific-team/Select... not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "description" length must be at least 2 characters long---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "description" length must be at least 2 characters long---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "meeting_room" length must be at least 2 characters long---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "dateTime_end" must be greater than "ref:dateTime_start"---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "meeting_room" length must be at least 2 characters long---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "meeting_room" length must be at least 2 characters long---------------------------------------
+function toLocaleTimeString() { [native code] } 	 "meeting_room" length must be at least 2 characters long---------------------------------------
+function toLocaleTimeString() { [native code] } 	 Route /api/meetings-by-id-spesific-team/Select... not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 Route /api/meetings-by-id-spesific-team/Select... not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 Route /api/meetings-by-id-spesific-team/Select... not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 Route /api/meetings-by-id-spesific-team/Select... not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 Route /api/meetings-by-id-spesific-team/Select... not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 Route /api/meetings-by-id-spesific-team/Select... not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 Route /api/meetings-by-id-spesific-team/Select... not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 Route /api/meetings-by-id-spesific-team/Select... not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 Route /api/meetings-by-id-spesific-team/Select... not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 Route /api/meetings-by-id-spesific-team/Select... not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 Route /api/meetings-by-id-spesific-team/Select... not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 Route /api/meetings-by-id-spesific-team/Select... not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 Route /api/meetings-by-id-spesific-team/Select... not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 Route /api/meetings-by-id-spesific-team/Select... not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 Route /api/meetings-by-id-spesific-team/Select... not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 Route /api/meetings-by-id-spesific-team/Select... not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 Route /api/meetings-by-id-spesific-team/Select... not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 Route /api/meetings-by-id-spesific-team/Select... not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 Route /api/meetings-by-id-spesific-team/Select... not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 Route /api/meetings-by-id-spesific-team/Select... not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 ---------------------------------------
+function toLocaleTimeString() { [native code] } 	 UNKNOWN_CODE_PLEASE_REPORT: Table 'meetings_jb_test.developer_teams' doesn't exist in engine---------------------------------------
+function toLocaleTimeString() { [native code] } 	 UNKNOWN_CODE_PLEASE_REPORT: Table 'meetings_jb_test.developer_teams' doesn't exist in engine---------------------------------------
+function toLocaleTimeString() { [native code] } 	 UNKNOWN_CODE_PLEASE_REPORT: Table 'meetings_jb_test.developer_teams' doesn't exist in engine---------------------------------------
+function toLocaleTimeString() { [native code] } 	 UNKNOWN_CODE_PLEASE_REPORT: Table 'meetings_jb_test.developer_teams' doesn't exist in engine---------------------------------------
+function toLocaleTimeString() { [native code] } 	 UNKNOWN_CODE_PLEASE_REPORT: Table 'meetings_jb_test.developer_teams' doesn't exist in engine---------------------------------------
+function toLocaleTimeString() { [native code] } 	 UNKNOWN_CODE_PLEASE_REPORT: Table 'meetings_jb_test.developer_teams' doesn't exist in engine---------------------------------------
+function toLocaleTimeString() { [native code] } 	 UNKNOWN_CODE_PLEASE_REPORT: Table 'meetings_jb_test.developer_teams' doesn't exist in engine---------------------------------------
+function toLocaleTimeString() { [native code] } 	 ---------------------------------------
+function toLocaleTimeString() { [native code] } 	 UNKNOWN_CODE_PLEASE_REPORT: Table 'meetings_jb_test.developer_teams' doesn't exist in engine---------------------------------------
+function toLocaleTimeString() { [native code] } 	 UNKNOWN_CODE_PLEASE_REPORT: Table 'meetings_jb_test.developer_teams' doesn't exist in engine---------------------------------------
+function toLocaleTimeString() { [native code] } 	 UNKNOWN_CODE_PLEASE_REPORT: Table 'meetings_jb_test.developer_teams' doesn't exist in engine---------------------------------------
+function toLocaleTimeString() { [native code] } 	 UNKNOWN_CODE_PLEASE_REPORT: Table 'meetings_jb_test.developer_teams' doesn't exist in engine---------------------------------------
+function toLocaleTimeString() { [native code] } 	 id 1 not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 id 3 not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 id 1 not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 id 1 not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 id 2 not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 id 1 not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 id 3 not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 That team doesn;t have any meetings yet---------------------------------------
+function toLocaleTimeString() { [native code] } 	 That team doesn;t have any meetings yet---------------------------------------
+function toLocaleTimeString() { [native code] } 	 That team doesn;t have any meetings yet---------------------------------------
+function toLocaleTimeString() { [native code] } 	 alert is not defined---------------------------------------
+function toLocaleTimeString() { [native code] } 	 alert is not defined---------------------------------------
+function toLocaleTimeString() { [native code] } 	 id 2 not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 not---------------------------------------
+function toLocaleTimeString() { [native code] } 	 id 1 not exists---------------------------------------
+function toLocaleTimeString() { [native code] } 	 Choosen team with id 2 doesn't have any meetings yet---------------------------------------
+function toLocaleTimeString() { [native code] } 	 Route /api/meetings-by-id-spesific-team/Select... not exists---------------------------------------
